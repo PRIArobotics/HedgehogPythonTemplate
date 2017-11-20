@@ -19,7 +19,7 @@ with connect(emergency=15) as hedgehog:
     # Write your code here
     # E.g. simply output text to the console.
     print("Hello World")
-    
+
 
 ##################################################
 # Quick reference of the Hedgehog Python Library #
@@ -59,7 +59,7 @@ with connect(emergency=15) as hedgehog:
 # be established, before you can use it.
 # with connect_create() as create:
 #     create.safe()
-#     // Write your code here
+#     # Write your code here
 
 # Drive the Create forward at 500 mm/s.
 # The paramteters indicate the velocity of the left and right wheel in mm/s and
